@@ -1,0 +1,22 @@
+List<String> currencyCodes = [
+"AUD", // Australian Dollar (Australia)
+"CAD", // Canadian Dollar (Canada)
+"CHF", // Swiss Franc (Switzerland)
+"CNY", // Chinese Yuan (China)
+"EUR", // Euro (Eurozone - multiple European countries)
+"GBP", // British Pound (United Kingdom)
+"HKD", // Hong Kong Dollar (Hong Kong)
+"INR", // Indian Rupee (India)
+"JPY", // Japanese Yen (Japan)
+"KRW", // South Korean Won (South Korea)
+"MXN", // Mexican Peso (Mexico)
+"NZD", // New Zealand Dollar (New Zealand)
+"RUB", // Russian Ruble (Russia)
+"SAR", // Saudi Riyal (Saudi Arabia)
+"SGD", // Singapore Dollar (Singapore)
+"THB", // Thai Baht (Thailand)
+"TRY", // Turkish Lira (Turkey)
+"USD", // United States Dollar (United States)
+"ZAR"  // South African Rand (South Africa)
+
+];

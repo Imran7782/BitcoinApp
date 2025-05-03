@@ -1,15 +1,10 @@
-# bitcoin
+# Bitcoin exchange app
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot 2025-03-15 010030](https://github.com/user-attachments/assets/ae8a21f3-57a8-4c66-ad02-6c26ec5ea67c)
+![Screenshot 2025-03-15 010011](https://github.com/user-attachments/assets/a2aad2d1-cfbb-41e5-a07a-e8c788fb193a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
